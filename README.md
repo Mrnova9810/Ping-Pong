@@ -12,8 +12,6 @@ It's a fun little project that lets two players compete against each other on th
   <img src="PingPong.png" alt="Ping-Pong Game Screenshot" width="900">
 </p>
 
-> **Tip:** Save the screenshot above as `image.png` inside your repository (or rename it if needed).
-
 ---
 
 ## 🎮 Features
@@ -48,7 +46,7 @@ It's a fun little project that lets two players compete against each other on th
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ping-pong.git
+git clone https://github.com/Mrnova9810/Ping-Pong.git
 ```
 
 ### Open the project
